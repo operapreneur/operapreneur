@@ -1,16 +1,33 @@
 ---
-name: Tails Azimuth
+name: Joel Herold
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Director of Technology
+company: Area 23
+email: 
+twitter: https://twitter.com/operapreneur
+linkedin: https://www.linkedin.com/in/joelherold/
+github: https://github.com/operapreneur
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+## Definition of an _Opera-pre-neur_
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Opera singer meets entrepreneur. Creativity meets impressario. Classical meets innovation. Art meets business.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2009, not long after singing on the world renowned Metropolitan Opera stage, my young career as an opera singer hit a major snag. The opera company I was working for (sixth-oldest in the nation) went bankrupt and I was overcome by the basic need to survive financially.
+
+From that point on I have pursued a non-linear career path which has lead me here: a 'retired' opera singer turned creative technologist.
+
+---
+
+## Manifesto
+
+As an artist, I constantly seek out perfection in my work. This pursuit can easily become a negative crutch. In that case, striving for perfection must be approached with balance and flexibility but never timidity or a lack of credible hubris. It must be pursued by remembering the past but always living in the present.
+
+The purpose of my work is to communicate and connect to the intended audience. I am not interested in work that is for the masses. My passion lies within creating a personal experience for the modern day individual.
+
+The work that comes across my _virtual_ desk passes through these 3 filters:
+1. Past - acknowledging the good, the bad, and the ugly
+2. Present - challenging the current paradigm
+3. Future - defining the ideals
+
+Within the pursuit of perfection lies the desire to become enlightened or changed. If that impulse is not present within the work, then the work is inherently pointless.
