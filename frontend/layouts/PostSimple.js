@@ -1,7 +1,7 @@
 import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
-import SectionContainer from '@/components/SectionContainer'
-import { BlogSEO } from '@/components/SEO'
+import SectionContainer from '@/components/global/SectionContainer'
+import { BlogSEO } from '@/components/global/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import formatDate from '@/lib/utils/formatDate'
 import Comments from '@/components/comments'
@@ -21,7 +21,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
-                  <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                  <dd className="text-base font-medium leading-6">
                     <time dateTime={date}>{formatDate(date)}</time>
                   </dd>
                 </div>

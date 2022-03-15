@@ -1,3 +1,4 @@
+import '@/css/operapreneur.css'
 import '@/css/tailwind.css'
 import '@/css/prism.css'
 import 'katex/dist/katex.css'
@@ -9,8 +10,8 @@ import Head from 'next/head'
 
 import siteMetadata from '@/data/siteMetadata'
 import Analytics from '@/components/analytics'
-import LayoutWrapper from '@/components/LayoutWrapper'
-import { ClientReload } from '@/components/ClientReload'
+import LayoutWrapper from '@/components/global/LayoutWrapper'
+import { ClientReload } from '@/components/global/ClientReload'
 
 const isDevelopment = process.env.NODE_ENV === 'development'
 const isSocket = process.env.SOCKET

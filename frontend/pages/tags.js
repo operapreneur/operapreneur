@@ -1,5 +1,5 @@
 import Link from '@/components/Link'
-import { PageSEO } from '@/components/SEO'
+import { PageSEO } from '@/components/global/SEO'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllTags } from '@/lib/tags'

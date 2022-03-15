@@ -25,39 +25,63 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        'sans': ['Nexa', 'sans-serif'],
+        'serif': ['Rische-Semibold', 'serif']
       },
       colors: {
-        primary: colors.teal,
+        transparent: 'transparent',
+        current: 'currentColor',
+        'midnight': '#002B40',
+        'teal': {
+          400: '#0a6384',
+          500: '#084D66',
+          600: '#05394b'
+        },
+        'sky': {
+          400: '#79a1c2',
+          500: '#6694BA',
+          600: '#4f84af'
+        },
+        'sage': {
+          400: '#5f8b72',
+          500: '#527863',
+          600: '#466754'
+        },
+        'mint': '#B0C4BA',
+        'slate': '#E5E8E8',
         gray: colors.neutral,
+        black: colors.black,
+        white: colors.white,
+        primary: colors.teal
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: theme('colors.gray.700'),
+            color: theme('colors.midnight'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.sage.500'),
               '&:hover': {
-                color: `${theme('colors.primary.600')} !important`,
+                color: `${theme('colors.sage.600')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.sage.400') },
             },
             h1: {
+              fontFamily: 'Rische-Semibold',
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
-              color: theme('colors.gray.900'),
+              color: theme('colors.midnight'),
             },
             h2: {
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
-              color: theme('colors.gray.900'),
+              color: theme('colors.midnight'),
             },
             h3: {
               fontWeight: '600',
-              color: theme('colors.gray.900'),
+              color: theme('colors.midnight'),
             },
             'h4,h5,h6': {
-              color: theme('colors.gray.900'),
+              color: theme('colors.midnight'),
             },
             pre: {
               backgroundColor: theme('colors.gray.800'),
@@ -104,11 +128,11 @@ module.exports = {
           css: {
             color: theme('colors.gray.300'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.sage.500'),
               '&:hover': {
-                color: `${theme('colors.primary.400')} !important`,
+                color: `${theme('colors.sage.400')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.sage.400') },
             },
             h1: {
               fontWeight: '700',

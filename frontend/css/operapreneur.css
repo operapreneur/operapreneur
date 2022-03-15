@@ -1,0 +1,61 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4377754, 2022-02-22T08:31:30-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Nexa-Book by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/nexa/book/
+ * Copyright: Copyright � 2012 by Fontfabric. All rights reserved.
+ * 
+ * Webfont: Nexa-BookItalic by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/nexa/book-italic/
+ * Copyright: Copyright � 2012 by Fontfabric. All rights reserved.
+ * 
+ * Webfont: Nexa-Bold by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/nexa/bold/
+ * Copyright: Copyright � 2012 by Fontfabric. All rights reserved.
+ * 
+ * Webfont: Rische-Semibold by Flavortype
+ * URL: https://www.myfonts.com/fonts/flavortype/rische/semibold/
+ * Copyright: Copyright © 2021 by Ilham Herry. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/42cc9a");
+  
+@font-face {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url('/static/Nexa/normal_normal_bold.woff2') format('woff2'), url('/static/Nexa/normal_normal_bold.woff') format('woff');
+}
+@font-face {
+  font-family: "Rische-Semibold";
+  src: url('/static/RischeSemibold/font.woff2') format('woff2'), url('/static/RischeSemibold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/static/Nexa/normal_normal_normal.woff2') format('woff2'), url('/static/Nexa/normal_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "Nexa";
+  font-style: italic;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/static/Nexa/italic_normal_normal.woff2') format('woff2'), url('/static/Nexa/italic_normal_normal.woff') format('woff');
+}
+
