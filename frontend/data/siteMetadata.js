@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Operapreneur',
   author: 'Joel Herold',
   headerTitle: 'Operapreneur',
-  description: 'Musings of a traveler caught between work and art',
+  description: 'Musings of a traveler caught between work, art, and board sports',
   language: 'en-us',
   siteUrl: 'https://operapreneur.com',
   siteRepo: '',

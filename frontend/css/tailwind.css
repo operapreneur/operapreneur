@@ -23,3 +23,18 @@ input:-webkit-autofill,
 input:-webkit-autofill:focus {
   transition: background-color 600000s 0s, color 600000s 0s;
 }
+
+
+.div1 { grid-area: 2 / 1 / 6 / 3; }
+.div2 { 
+  grid-area: 1 / 1 / 7 / 4; 
+  background-image: url('/static/images/home/joel-herold-guatape.jpg');
+}
+.div3 { 
+  grid-area: 1 / 4 / 4 / 6; 
+  background-image: url('/static/images/home/joel-herold-opera.jpg');
+}
+.div4 { 
+  grid-area: 4 / 4 / 7 / 6; 
+  background-image: url('/static/images/home/joel-herold-fuego.jpg');
+}

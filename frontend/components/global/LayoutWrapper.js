@@ -8,12 +8,12 @@ import ThemeSwitch from '../ThemeSwitch'
 
 const LayoutWrapper = ({ children }) => {
   return (
-    <div className="h-screen">
+    <div className="h-screen flex flex-col justify-between">
       <SectionContainer>
-        <header className="flex items-center justify-between py-10">
+        <header className="flex items-center justify-between py-4">
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
-              <div className="flex items-center justify-between">
+              <div className="-translate-x-3 flex items-center justify-between">
                 <svg 
                   id="opp-logo" 
                   data-name="Operapreneur Logo" 

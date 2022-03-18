@@ -5,7 +5,7 @@ import SocialIcon from '@/components/social-icons'
 
 export default function Footer() {
   return (
-    <footer className="mt-8 py-8 bg-teal-500 text-slate">
+    <footer className="mt-14 py-8 bg-teal-500 text-slate">
       <SectionContainer>
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="w-48">
