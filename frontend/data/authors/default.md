@@ -18,12 +18,11 @@ In 2009, not long after singing on the world renowned Metropolitan Opera stage, 
 From that point on I have pursued a non-linear career path which has lead me here: a 'retired' opera singer turned creative technologist.
 
 ---
-
 ## Manifesto
 
 As an artist, I constantly seek out perfection in my work. This pursuit can easily become a negative crutch. In that case, striving for perfection must be approached with balance and flexibility but never timidity or a lack of credible hubris. It must be pursued by remembering the past but always living in the present.
 
-The purpose of my work is to communicate and connect to the intended audience. I am not interested in work that is for the masses. My passion lies within creating a personal experience for the modern day individual.
+The purpose of my work is to communicate and connect to the intended audience. My passion lies within creating a personal experience for the modern day individual.
 
 The work that comes across my _virtual_ desk passes through these 3 filters:
 1. Past - acknowledging the good, the bad, and the ugly

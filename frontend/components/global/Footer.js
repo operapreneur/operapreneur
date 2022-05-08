@@ -27,11 +27,11 @@ export default function Footer() {
               <Link href="/">{siteMetadata.title}</Link>
             </div>
             <div className="mb-3 flex justify-center md:justify-end space-x-4">
-              <SocialIcon kind="github" href={siteMetadata.github} size="6" />
-              <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" />
-              <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
+              <SocialIcon kind="github" href={siteMetadata.github} size="6" fill="white" />
+              <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6"  fill="white"/>
+              <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" fill="white" />
             </div>
-            <div className="text-sm">
+            <div className="text-sm text-center md:text-right">
               <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog" target="_blank">
                 Tailwind Next.js 🤍
               </Link>

@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+hr {
+  @apply border-white;
+}
+
 .task-list-item::before {
   @apply hidden;
 }
@@ -25,7 +29,11 @@ input:-webkit-autofill:focus {
 }
 
 
-.div1 { grid-area: 2 / 1 / 6 / 3; }
+.div1 { 
+  grid-area: 2 / 1 / 6 / 3; 
+  background-image: url('/static/images/opp-brand/icons/suitcase-sq-01.svg');
+  background-repeat: no-repeat;
+}
 .div2 { 
   grid-area: 1 / 1 / 7 / 4; 
   background-image: url('/static/images/home/joel-herold-guatape.jpg');
